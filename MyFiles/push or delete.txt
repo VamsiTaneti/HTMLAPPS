@@ -1,0 +1,14 @@
+for push folder:
+
+git status
+git add .
+git commit -m "Task2"
+git push
+
+
+for delete folder:
+
+git status
+git add .
+git commit -m "Task2 deleted"
+git push
